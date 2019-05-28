@@ -27,3 +27,5 @@ Pour jouer le playbook :
 ```shell
 ansible-playbook hello_world.yml
 ```
+
+A très vite sur blog.autodidactcoders.com
