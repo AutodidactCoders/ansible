@@ -28,4 +28,4 @@ Pour jouer le playbook :
 ansible-playbook hello_world.yml
 ```
 
-A très vite sur blog.autodidactcoders.com
+A très vite sur https://blog.autodidactcoders.com
