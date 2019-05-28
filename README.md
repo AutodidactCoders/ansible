@@ -30,4 +30,8 @@ Pour jouer le playbook :
 ansible-playbook hello_world.yml
 ```
 
+![alt text][logo]
+
+[logo]: https://github.com/AutodidactCoders/ansible-hello-world/blob/master/run_hello_world_playbook.png "Hello World Ansible in VSCode"
+
 A très vite sur https://blog.autodidactcoders.com
