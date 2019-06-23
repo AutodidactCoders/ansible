@@ -33,4 +33,4 @@ ansible-playbook hello_world.yml
 
 [logo]: https://github.com/AutodidactCoders/ansible-hello-world/blob/master/run_hello_world_playbook.png "Hello World Ansible in VSCode"
 
-A très vite sur https://blog.autodidactcoders.com
+A très vite sur https://github.com/AutodidactCoders
