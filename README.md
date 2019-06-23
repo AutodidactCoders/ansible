@@ -4,17 +4,16 @@ Comment démarrer avec Ansible ?
 
 1. Installation
 
-La doc officielle est ici : https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html
-
-Un script d'installation sous Ubuntu est disponible : install_ansible.sh
+Un script d'installation sous Ubuntu est disponible dans ce repo : install_ansible.sh
 
 Pour jouer le script :
 
 ```shell
 chmod +x install_ansible.sh
 
-./install_ansible.sh
+sudo ./install_ansible.sh
 ```
+> La doc officielle est ici : https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html
 
 2. Premier playbook
 
